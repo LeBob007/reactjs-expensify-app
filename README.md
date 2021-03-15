@@ -1,4 +1,4 @@
 Expensify App
 
 Current Laguages:
-    - ReactJS
+- ReactJS
