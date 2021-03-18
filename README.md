@@ -1,4 +1,10 @@
-Expensify App
+# Expensify App
 
-Current Laguages:
+Current Tech:
 - ReactJS
+- NodeJS
+- ExpressJS
+
+Things to work on:
+- Addition of database
+    - Items disappear on server reset
