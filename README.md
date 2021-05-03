@@ -6,6 +6,8 @@ Current Tech:
 - ExpressJS
 - Google Firebase
 
+Updates
+- Heroku deployment fixed: Added as authorized domain on firebase
+
 Issues
-- Heroku deployment error: invalid api key
-- dev server working
+
