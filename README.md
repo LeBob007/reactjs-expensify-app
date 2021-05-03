@@ -11,3 +11,6 @@ Updates
 
 Issues
 
+
+To do
+- Style the app
