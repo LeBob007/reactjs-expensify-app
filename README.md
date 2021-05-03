@@ -5,3 +5,7 @@ Current Tech:
 - NodeJS
 - ExpressJS
 - Google Firebase
+
+Issues
+- Heroku deployment error: invalid api key
+- dev server working
